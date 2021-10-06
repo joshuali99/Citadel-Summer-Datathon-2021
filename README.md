@@ -5,6 +5,6 @@ First place submission for the Citadel 2021 Data Open, prize of $25,000. An Empi
 How did New Orleans's short-term rental regulations affect Airbnb listings in the city?
 
 ## Contents
-`Final Report.pdf` contains my final report.
-`City Data` contains all data on Airbnb listings used for this report, including cities such as Nashville, New Orleans, Los Angeles, and Asheville.
-`Python Scripts` includes all Python scripts written in preparing this report, including EDA and modeling.
+1. `Final Report.pdf` contains my final report.
+2. `City Data` contains all data on Airbnb listings used for this report, including cities such as Nashville, New Orleans, Los Angeles, and Asheville.
+3. `Python Scripts` includes all Python scripts written in preparing this report, including EDA and modeling.
